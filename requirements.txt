@@ -1,0 +1,8 @@
+pandas
+spacy
+seaborn
+tqdm
+textblob
+nltk
+scikit-learn
+swifter
